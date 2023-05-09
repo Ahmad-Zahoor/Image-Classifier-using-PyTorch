@@ -49,6 +49,6 @@ However, once a model is trained then a normal CPU can be used for the predict.p
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Ahmad-Zahoor/Image-Classifier-using-PyTorch/blob/master/LICENSE) file for details. 
-![alt text](https://github.com/Ahmad-Zahoor/Image-Classifier-using-PyTorch/blob/master/assets/Certificate.jpg)
+![alt text](https://github.com/Ahmad-Zahoor/Image-Classifier-using-PyTorch/blob/master/assets/Certificate.png)
 
 
